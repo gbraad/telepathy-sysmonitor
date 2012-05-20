@@ -1,0 +1,3 @@
+#!/bin/sh
+# This script (re-)generates connectr.png out of connectr.svg
+inkscape -z -e sysmonitor.png -w 48 sysmonitor.svg
